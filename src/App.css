@@ -1,0 +1,17 @@
+p {
+  font-size: 4rem;
+  font-weight: 1000;
+  color: #400849;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+* {
+  background-color: #E7B0DE;
+}
